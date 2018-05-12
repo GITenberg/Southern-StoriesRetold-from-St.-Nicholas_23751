@@ -1,0 +1,36 @@
+_repo: Southern-StoriesRetold-from-St.-Nicholas_23751
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 23751-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: Children's Anthologies
+gutenberg_issued: '2007-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23751'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southern States -- Juvenile literature'
+- !lcsh 'Southern States -- Juvenile fiction'
+- !lcc 'PZ'
+tableOfContents: His Hero, by Minor -- Jericho Bob, by King -- How We Bought Louisiana,
+  by Coffin -- The City that Lives Outdoors, by Harwood -- Queer American Rivers,
+  by Spearman -- The Watermelon Stockings, by Hegan -- The "'Gator", by Moore -- The
+  Earthquake at Charleston, by Gibson -- Hiding Places in War Times, by Gore -- St.
+  Augustine, by Stockton -- Catching Terrapin, by Kappes -- "Locoed", by Marshall
+  -- A Divided Duty, by Cassidy -- The "Walking-Beam Boy", by Stofiel -- The Creature
+  with No Claws, by Harris.
+title: 'Southern Stories
+
+  Retold from St. Nicholas'
+url: http://www.gutenberg.org/ebooks/23751
